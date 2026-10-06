@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Apurbo Shib 👋
+# Hi, I'm Apurbo Shib.
 
 ### Software Engineer · AI/ML Engineer · NLP Researcher
 
@@ -16,7 +16,7 @@ Building reliable, scalable products across **AI**, **EdTech**, and **legal tech
 
 ---
 
-## 👤 About Me
+## About Me
 
 I'm a Computer Science undergraduate specializing in **NLP and Large Language Models**, currently researching Retrieval-Augmented Generation (RAG) to reduce hallucination and improve factual accuracy in LLMs — including fine-tuning approaches for low-resource languages. Alongside research, I build production full-stack systems and ship ML/DL models in real-world settings.
 
